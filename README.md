@@ -1,3 +1,5 @@
 # tezos_basic
 
-see https://github.com/marigold-dev/training-dapp-1 for guide. Will be extending this project slowly...
+Under construction, might return if there is time...
+
+see https://github.com/marigold-dev/training-dapp-1 for full guide.
